@@ -1,2 +1,2 @@
 # hanoiGame
-un jeu vodeo basé sur le principer des  tours Hanoi
+un jeu vodeo basé sur le principe des  tours Hanoi
